@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # License Plate Detection using YOLOv8
 
 A computer vision project for detecting license plates in images and videos using YOLOv8 (You Only Look Once) deep learning model.
