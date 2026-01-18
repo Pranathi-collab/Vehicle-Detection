@@ -1,0 +1,1 @@
+image_path = "C:/Python/training_data/test_image.py.png"
